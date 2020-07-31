@@ -1,8 +1,10 @@
 import React from "react";
 import "./App.css";
+import logo from "./rajlogo.jpg";
 function App() {
 	return (
-		<div className='video-container'>
+		<div className='container'>
+			<img style={{ height: "50px", width: "80px" }} src={logo} />
 			<div className='centered'>
 				<div className='firstLine'>
 					We are building something amazing. Stay tuned for updates.
