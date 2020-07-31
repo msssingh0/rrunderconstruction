@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/rrunderconstruction/static/css/main.c51ef8d2.chunk.css",
-    "main.js": "/rrunderconstruction/static/js/main.dfd4a2f5.chunk.js",
-    "main.js.map": "/rrunderconstruction/static/js/main.dfd4a2f5.chunk.js.map",
-    "runtime-main.js": "/rrunderconstruction/static/js/runtime-main.ba5948dd.js",
-    "runtime-main.js.map": "/rrunderconstruction/static/js/runtime-main.ba5948dd.js.map",
-    "static/js/2.21b4274f.chunk.js": "/rrunderconstruction/static/js/2.21b4274f.chunk.js",
-    "static/js/2.21b4274f.chunk.js.map": "/rrunderconstruction/static/js/2.21b4274f.chunk.js.map",
-    "index.html": "/rrunderconstruction/index.html",
-    "precache-manifest.642566c1aa5d475a8210cefed27b82de.js": "/rrunderconstruction/precache-manifest.642566c1aa5d475a8210cefed27b82de.js",
-    "service-worker.js": "/rrunderconstruction/service-worker.js",
-    "static/css/main.c51ef8d2.chunk.css.map": "/rrunderconstruction/static/css/main.c51ef8d2.chunk.css.map",
-    "static/js/2.21b4274f.chunk.js.LICENSE.txt": "/rrunderconstruction/static/js/2.21b4274f.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/rrunderconstruction/static/media/construction.ff85fb24.gif"
+    "main.css": "/static/css/main.88a9d76c.chunk.css",
+    "main.js": "/static/js/main.dfd4a2f5.chunk.js",
+    "main.js.map": "/static/js/main.dfd4a2f5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.05a2bbaf.js",
+    "runtime-main.js.map": "/static/js/runtime-main.05a2bbaf.js.map",
+    "static/js/2.21b4274f.chunk.js": "/static/js/2.21b4274f.chunk.js",
+    "static/js/2.21b4274f.chunk.js.map": "/static/js/2.21b4274f.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.72db2d68a2a769cf1830402e8b294eaa.js": "/precache-manifest.72db2d68a2a769cf1830402e8b294eaa.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.88a9d76c.chunk.css.map": "/static/css/main.88a9d76c.chunk.css.map",
+    "static/js/2.21b4274f.chunk.js.LICENSE.txt": "/static/js/2.21b4274f.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/construction.ff85fb24.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.ba5948dd.js",
+    "static/js/runtime-main.05a2bbaf.js",
     "static/js/2.21b4274f.chunk.js",
-    "static/css/main.c51ef8d2.chunk.css",
+    "static/css/main.88a9d76c.chunk.css",
     "static/js/main.dfd4a2f5.chunk.js"
   ]
 }
